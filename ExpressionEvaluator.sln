@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionEvaluator", "ConsoleApp2\ExpressionEvaluator.csproj", "{A1CC111D-BD17-42A5-9771-8FCEA794A2AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Thesis", "Thesis", "{43749832-5DCC-443C-8FD9-A2A699A39798}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Thesis\page 1.jpg = ..\..\..\Desktop\Thesis\page 1.jpg
+		..\..\..\Desktop\Thesis\page 10.jpg = ..\..\..\Desktop\Thesis\page 10.jpg
+		..\..\..\Desktop\Thesis\page 11.jpg = ..\..\..\Desktop\Thesis\page 11.jpg
+		..\..\..\Desktop\Thesis\page 12.jpg = ..\..\..\Desktop\Thesis\page 12.jpg
+		..\..\..\Desktop\Thesis\page 13.jpg = ..\..\..\Desktop\Thesis\page 13.jpg
+		..\..\..\Desktop\Thesis\page 14.jpg = ..\..\..\Desktop\Thesis\page 14.jpg
+		..\..\..\Desktop\Thesis\page 15.jpg = ..\..\..\Desktop\Thesis\page 15.jpg
+		..\..\..\Desktop\Thesis\page 16.jpg = ..\..\..\Desktop\Thesis\page 16.jpg
+		..\..\..\Desktop\Thesis\page 17.jpg = ..\..\..\Desktop\Thesis\page 17.jpg
+		..\..\..\Desktop\Thesis\page 18.jpg = ..\..\..\Desktop\Thesis\page 18.jpg
+		..\..\..\Desktop\Thesis\page 19.jpg = ..\..\..\Desktop\Thesis\page 19.jpg
+		..\..\..\Desktop\Thesis\page 2.jpg = ..\..\..\Desktop\Thesis\page 2.jpg
+		..\..\..\Desktop\Thesis\page 20.jpg = ..\..\..\Desktop\Thesis\page 20.jpg
+		..\..\..\Desktop\Thesis\page 21.jpg = ..\..\..\Desktop\Thesis\page 21.jpg
+		..\..\..\Desktop\Thesis\page 3.jpg = ..\..\..\Desktop\Thesis\page 3.jpg
+		..\..\..\Desktop\Thesis\page 4.jpg = ..\..\..\Desktop\Thesis\page 4.jpg
+		..\..\..\Desktop\Thesis\page 5.jpg = ..\..\..\Desktop\Thesis\page 5.jpg
+		..\..\..\Desktop\Thesis\page 6.jpg = ..\..\..\Desktop\Thesis\page 6.jpg
+		..\..\..\Desktop\Thesis\page 7.jpg = ..\..\..\Desktop\Thesis\page 7.jpg
+		..\..\..\Desktop\Thesis\page 8.jpg = ..\..\..\Desktop\Thesis\page 8.jpg
+		..\..\..\Desktop\Thesis\page 9.jpg = ..\..\..\Desktop\Thesis\page 9.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CC111D-BD17-42A5-9771-8FCEA794A2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CC111D-BD17-42A5-9771-8FCEA794A2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CC111D-BD17-42A5-9771-8FCEA794A2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CC111D-BD17-42A5-9771-8FCEA794A2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F165DE97-6E5F-4EB2-A8B6-B27378DE758F}
+	EndGlobalSection
+EndGlobal
